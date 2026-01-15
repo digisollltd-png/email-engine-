@@ -1,1 +1,12 @@
-.vscode/extensions/
+# Node / JS
+node_modules/
+package-lock.json
+
+# VS Code
+.vscode/
+
+# Windows system files
+Thumbs.db
+*.log
+AppData/
+
